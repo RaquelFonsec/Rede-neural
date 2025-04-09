@@ -113,9 +113,9 @@ O histórico recente de pagamento (especialmente PAY_0) foi o fator mais determi
 ▶️ Como Rodar
 
 
-git clone https://github.com/seuusuario/credit-default-prediction.git
+git clone https://github.com/RaquelFonsec/Rede-neural.git
 
-cd credit-default-prediction
+cd Rede-neural
 Instale as dependências:
 
 
@@ -124,7 +124,7 @@ pip install -r requirements.txt
 Execute o notebook:
 
 
-jupyter notebook credit_default_mlp_vs_rf.ipynb
+jupyter Rede_neural_mlp_vs_rf.ipynb
 
 🛠️ Tecnologias Usadas
 Python 3.11
