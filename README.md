@@ -6,6 +6,8 @@ Este projeto tem como objetivo prever inadimplência de clientes com base em dad
 📁 Estrutura do Projeto
 
 credit-default-prediction/
+
+
 │
 ├── credit_default_mlp_vs_rf.ipynb  # Notebook principal com análise e modelagem
 ├── credit.csv                      # Dataset original
